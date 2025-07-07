@@ -1,0 +1,38 @@
+/* Inter */
+@font-face {
+  font-family: "Inter";
+  src: url("@/assets/fonts/Inter/Inter.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("@/assets/fonts/Inter/Inter-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* Press Start 2P */
+@font-face {
+  font-family: "Press Start 2P";
+  src: url("@/assets/fonts/Press_Start_2P/PressStart2P-Regular.ttf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Roboto */
+@font-face {
+  font-family: "Roboto";
+  src: url("@/assets/fonts/Roboto/Roboto.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("@/assets/fonts/Roboto/Roboto-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
