@@ -20,9 +20,12 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        primary: "#4f46e5",
-        secondary: "#d946ef",
-        tertiary: "#14b8a6",
+        primary: "#C9002B",
+        secondary: "#004B93",
+        tertiary: "#005CB4",
+      },
+      fontFamily: {
+        press: ['"Press Start 2P"', 'monospace'],
       },
     },
   },
